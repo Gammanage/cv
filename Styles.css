@@ -1,0 +1,83 @@
+body{margin: 0;
+    text-align: center;
+}
+h1{margin: 0 auto; font-family: 'Caveat', cursive; font-size: 3rem;}
+h2{font-family: 'Merriweather', serif; font-size: 2rem;}
+h3{font-size: 1.5rem;}
+
+
+.First{background-color: white; background-image: url(earth.jpg);
+padding: 10rem;
+}
+#Shashitha{height: 11rem;width: 11rem;}
+
+.Container{background-color: white; text-align: center; padding: 5rem; 
+}
+.Third{background-color: white; padding: 20rem;
+position: relative;}
+
+.Third-one{position: absolute; top: 15rem; left:42rem;
+ }
+.letters{text-align: center; line-height: 0.5rem;font-weight: bold; font-style: italic;
+         position: absolute; top: 13rem; left: 33rem;
+        }
+
+.eka{width: 10rem; position: absolute; top: 12rem; left: 12rem;
+}
+.deka{width: 10rem; position: absolute; top: 2rem; left: 53rem;
+}
+.thuna{width: 10rem; position: absolute; top: 3rem; right: 49rem;
+}
+.hathara{width: 10rem; position: absolute; top: 13rem; right: 12rem;
+}
+.paha{width: 10rem; position: absolute; top: 23rem; left: 49rem;
+}
+.haya{width: 10rem; position: absolute; top: 23rem; right: 49rem;
+}
+
+hr{border: dotted #E1D89F 6px;
+    border-bottom: none;
+    width: 4%;
+}
+#heading{margin-top:  8rem;}
+#contact-heading{margin-bottom: 8rem;}
+.contact-massage{width: 40%; margin: 40px auto 60px auto; line-height: 1.4rem; font-weight: bold;
+font-style: italic;
+}
+
+.btn {
+    background: #B4846C;
+    background-image: -webkit-linear-gradient(top, #B4846C, #D8B384);
+    background-image: -moz-linear-gradient(top, #B4846C, #D8B384);
+    background-image: -ms-linear-gradient(top, #B4846C, #D8B384);
+    background-image: -o-linear-gradient(top, #B4846C, #D8B384);
+    background-image: linear-gradient(to bottom, #B4846C, #D8B384);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #FEF7DC;
+    background-image: -webkit-linear-gradient(top, #FEF7DC, #B4846C);
+    background-image: -moz-linear-gradient(top, #FEF7DC, #B4846C);
+    background-image: -ms-linear-gradient(top, #FEF7DC, #B4846C);
+    background-image: -o-linear-gradient(top, #FEF7DC, #B4846C);
+    background-image: linear-gradient(to bottom, #FEF7DC, #B4846C);
+    text-decoration: none;
+  }
+
+.bottom-container{background-color: #E1D89F; margin-top: 5rem; padding: 4.5rem 0 1.5rem;
+ color: white;}
+
+a{color: #B4846C; text-decoration: none;}
+
+
